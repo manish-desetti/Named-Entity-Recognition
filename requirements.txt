@@ -1,0 +1,9 @@
+ipykernel
+transformers
+pandas
+from-root
+dill
+fastapi
+uvicorn
+google-cloud-storage
+-e .
